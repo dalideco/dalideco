@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
 </p>
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am [Dali Sahnoun](https://dalideco.github.io/myportfolio/) </h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am ![Dali Sahnoun](https://dalideco.github.io/myportfolio/) </h1>
 <h3 align="center">Web Developer | Software Engineering student </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/dalideco/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
