@@ -30,7 +30,7 @@
 ✔ I’m currently learning about **fire base**🥰<br>
 ✔ I’m currently learning about **data science and machine learning**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source projects**<br>
-✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
+✔ You can ask me anything you want 😉<br>
 ✔ Fun fact : *My celebrity crush is Emilia Clarke* 😎<br><br><br><br>
  
 
