@@ -1,8 +1,9 @@
 
-<br>
+
 
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am <a href="https://dalideco.github.io/myportfolio/">Dali Sahnoun </a> </h1>
+<br>
 <h3 align="center">Web Developer | Software Engineering student </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/dalideco/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
@@ -23,7 +24,7 @@
 <br><br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" />
 
-<img src="https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif" width="50px">&nbsp;***About me ....***
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently Developing a  **type racing web app**<br>
@@ -34,7 +35,7 @@
 ✔ Fun fact : *My celebrity crush is Emilia Clarke* 😎<br><br><br><br>
  
 
-<img src="https://media.giphy.com/media/UtnxCnjWAOL1J6TNUR/giphy.gif" width="30px">&nbsp;***My working tools...***
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px">&nbsp;***My working tools...***
 <p align="left">
   
   <code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
