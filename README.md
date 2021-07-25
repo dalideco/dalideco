@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am <a href="https://dalideco.github.io/myportfolio/">Dali Sahnoun </a> </h1>
-<hr>
+
 <h3 align="center">Web Developer | Software Engineering student </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/dalideco/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
