@@ -26,7 +26,7 @@
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
 ✔ I’m currently Developing a  **type racing web app**<br>
-✔ I’m currently learning about **fire base**🥰<br>
+✔ I’m currently learning about **firebase**🥰<br>
 ✔ I’m currently learning about **data science and machine learning**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source projects**<br>
 ✔ You can ask me anything you want 😉<br>
