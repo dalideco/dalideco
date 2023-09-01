@@ -4,9 +4,9 @@
 
 <h3 align="center">Web Developer | Software Engineering student </h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/dalideco/" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/174/174857.png" alt="lin_ovindu" height="30" width="40" /></a>  
-<a href="https://www.facebook.com/medali.pic/" target="blank"><img align="center" src="https://www.svgrepo.com/show/299425/facebook.svg" alt="fb_ovindu" height="30" width="40" /></a>
- <a href = "mailto: dalissj1@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dalideco/" target="blank"><img align="center" src="https://seeklogo.com/images/L/linkedin-new-2020-logo-E14A5D55ED-seeklogo.com.png" alt="linkedin_dali" height="30" /></a>  
+<a href="https://www.facebook.com/medali.pic/" target="blank"><img align="center" src="https://seeklogo.com/images/F/facebook-logo-966BBFBC34-seeklogo.com.png" alt="fb_dali" height="30" /></a>
+ <a href = "mailto: dalissj1@gmail.com"><img align="center" src="https://seeklogo.com/images/G/gmail-new-2020-logo-32DBE11BB4-seeklogo.com.png" alt="email_dali" height="30" /></a>
 </p>
 </p>
 
@@ -25,9 +25,9 @@
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="50px">&nbsp;***About me ....***
 
 ✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-✔ I’m currently Developing a  **type racing web app**<br>
-✔ I’m currently learning about **firebase**🥰<br>
-✔ I’m currently learning about **react native**🥰<br>
+✔ I’m currently working at  **Fiasco GmbH**<br>
+✔ I’m currently woking with **React** and **Phoenix** 🥰<br>
+✔ I’m currently learning about **Flutter**🥰<br>
 ✔ I’m looking to collaborate with any **Open - Source projects**<br>
 ✔ You can ask me anything you want 😉<br>
 ✔ Fun fact : *My celebrity crush is Emilia Clarke* 😎<br><br><br><br>
@@ -41,6 +41,7 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </code>
